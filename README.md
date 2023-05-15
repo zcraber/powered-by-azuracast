@@ -24,7 +24,6 @@ An attempt to list the awesome radio stations around the world powered by the op
 
 ## Germany
 - [MINIMALRADIO.DE](https://azurafallback.de/public/320.mp3)
-- [Radio Earth - Always Good Vibes](https://radio-earth.live/public/earth_radio)
 
 ## Greece
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
@@ -88,6 +87,8 @@ An attempt to list the awesome radio stations around the world powered by the op
 - [AJM Radio](http://ajm-central.net:8080/public/ajm_radio)
 - [Cross Waves Radio](https://station.crosswavesradio.com/public/cross_waves_radio)
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/public/spritelayer_video_game_radio)
+- [Radio Yada](https://radio.mailguru.co.za/public/radio_yada)
+- [Radio Earth - Always Good Vibes](https://radio-earth.live/public/earth_radio)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
