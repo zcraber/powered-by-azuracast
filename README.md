@@ -6,6 +6,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Argentina
 - [AM 1050 Radio San Francisco](http://www.radiosanfrancisco.com.ar/Streaming/Am1050)
 
+## Australia
+- [96.7 FM 2GHR](https://stream.2ghr.org.au/public/2ghr)
+
 ## Bangladesh
 - [BAYRADIO](https://radio.bayerp.com/public/bayradio)
 
