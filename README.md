@@ -6,8 +6,14 @@ An attempt to list the awesome radio stations around the world powered by the op
 ## Argentina
 - [AM 1050 Radio San Francisco](http://www.radiosanfrancisco.com.ar/Streaming/Am1050)
 
+## Brazil
+- [Rádio ASC](https://amigos-share.club/)
+
 ## France
 - [Europa Radio Jazz](https://onair.europaradiojazz.org/public/europa_radio_jazz)
+
+## Greece
+- [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
@@ -35,8 +41,12 @@ An attempt to list the awesome radio stations around the world powered by the op
 - [RadioFarmtruck](https://radiofarmtruck.com/public/farmtruck)
 - [StarDJ](https://stardj.es/public/radio)
 
+## Sweden
+- [Radio Rivendell](https://www.radiorivendell.com/)
+
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
+- [Code Radio](https://coderadio.freecodecamp.org/)
 
 ### Notes 📒
 Feel free to make suggestions by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
