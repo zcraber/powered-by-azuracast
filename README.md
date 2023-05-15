@@ -1,5 +1,5 @@
 # Powered by AzuraCast 📻
-An attempt to list the awesome radio stations around the world powered by the open source radio management software [AzuraCast](https://github.com/AzuraCast/AzuraCast). Currently, the list is categorized based on the origin country.
+An attempt to list the awesome radio stations, around the world, powered by the open source radio management software [AzuraCast](https://github.com/AzuraCast/AzuraCast). Currently, the list is categorized based on the origin country.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -15,6 +15,8 @@ An attempt to list the awesome radio stations around the world powered by the op
 
 ## Canada
 - [Long Lake 58 Radio](https://radio.ll58.ca/public/long_lake_58_radio)
+- [RCCQ](https://stream2.hosting-quebec.ca/public/rccq)
+- [RCMV RADIO](https://stream2.hosting-quebec.ca/public/rcmv)
 
 ## Ecuador
 - [Radio Alexis Stereo](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
@@ -47,6 +49,9 @@ An attempt to list the awesome radio stations around the world powered by the op
 
 ## Netherlands
 - [Synthetic FM Italo new generation](https://azuraserv3.live-streams.nl/public/synthetic_fm_italo_new_generation)
+
+## New Zealand
+- [radio free fedi](https://radiofreefedi.net/)
 
 ## Portugal
 - [iServices](https://radio.iservices.pt/public/iservices)
