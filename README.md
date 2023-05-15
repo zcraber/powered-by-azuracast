@@ -33,6 +33,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Greece
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
 - [kafeneio](https://laterna.kafeneio.social/public/kafeneio)
+- [Anarres fm](https://anarres.fm/)
 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
@@ -87,6 +88,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## UK
 - [Globalconnection](https://globalconnection.world/)
+- [Quest London Radio](https://azuracast.clubhits.uk/public/questlondonradio)
+- [Lituanica.fm](http://lituanica.fm/)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
@@ -97,6 +100,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/public/spritelayer_video_game_radio)
 - [Radio Yada](https://radio.mailguru.co.za/public/radio_yada)
 - [Radio Earth - Always Good Vibes](https://radio-earth.live/public/earth_radio)
+- [95x FM](https://95x.fm/public/95x)
+- [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
+- [octet.fm](https://live.octet.fm/public/live)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
