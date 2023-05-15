@@ -82,6 +82,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [StarDJ](https://stardj.es/public/radio)
 - [TopCat Radio](https://topcatradio.eu/)
 - [Ràdio Comarques Online](https://radio.comarques.online/public/directe)
+- [Loa y tuiter.rocks](https://laotra.club/public/radio)
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
