@@ -15,6 +15,11 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Bangladesh
 - [BAYRADIO](https://radio.bayerp.com/public/bayradio)
 
+## Bolivia
+- [Radio Chuquisaca 95.2 FM](https://radiochuquisaca.live.com.bo/)
+- [TOP Activa 99.5 FM](https://autodj.live/public/radio_top_activa)
+- [Canchallena Radio](https://autodj.live/public/canchallena)
+
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
 - [Rádio Mocambos](https://radio.taina.net.br/public/radiomocambos)
@@ -29,6 +34,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## France
 - [Europa Radio Jazz](https://onair.europaradiojazz.org/public/europa_radio_jazz)
+- [RLOCALE RADIO](https://rlocale.fr/)
 
 ## Germany
 - [MINIMALRADIO.DE](https://azurafallback.de/public/320.mp3)
@@ -47,6 +53,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Italy
 - [Radio YS](https://www.gettingequippedforeurope.edu.it/public/radio_dalla_chiesa)
+- [Radio Campania](https://stream.radiocampania.eu/public/radio_campania)
+- [Radio Campania Classic](https://stream.radiocampania.eu/public/radio_campania_classic)
 
 ## Japan
 - [Muse](https://hear.moe/public/muse)
@@ -56,9 +64,13 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Netherlands
 - [Synthetic FM Italo new generation](https://azuraserv3.live-streams.nl/public/synthetic_fm_italo_new_generation)
+- [RTV Connect](https://stream.rtvconnect.nl/public/rtv_connect)
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
+
+## Peru
+- [Kodama Station](https://www.kodamastation.com/)
 
 ## Portugal
 - [iServices](https://radio.iservices.pt/public/iservices)
@@ -83,6 +95,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [TopCat Radio](https://topcatradio.eu/)
 - [Ràdio Comarques Online](https://radio.comarques.online/public/directe)
 - [Loa y tuiter.rocks](https://laotra.club/public/radio)
+- [Balearic FM](https://radio.balearic-fm.com/public/balearic_fm)
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
@@ -107,9 +120,13 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [95x FM](https://95x.fm/public/95x)
 - [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
 - [octet.fm](https://live.octet.fm/public/live)
+- [HackInTheSystem.com 24/7 Truth Radio](https://hitstruth.live/public/hitstruth_live)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
+
+## Unknown Origin
+- [Mundo Break Radio 2](https://playradiopanel.live/public/mundobreakradio2)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
