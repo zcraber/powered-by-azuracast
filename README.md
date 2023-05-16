@@ -38,6 +38,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Germany
 - [MINIMALRADIO.DE](https://azurafallback.de/public/320.mp3)
+- [Radio Chostingen](https://chostingen.de/)
 
 ## Greece
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
@@ -61,6 +62,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Mexico
 - [Isekai Anime Radio](https://www.isekaianimeradio.net/)
+- [Japanisu Radio](https://www.radioani.me/)
 
 ## Netherlands
 - [Synthetic FM Italo new generation](https://azuraserv3.live-streams.nl/public/synthetic_fm_italo_new_generation)
@@ -125,8 +127,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
 
-## Unknown Origin
+## Unknown Region
 - [Mundo Break Radio 2](https://playradiopanel.live/public/mundobreakradio2)
+- [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
