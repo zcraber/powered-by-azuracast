@@ -1,7 +1,7 @@
 # Powered by AzuraCast 📻
 An attempt to list the awesome radio stations, around the world, powered by the open source radio management software [AzuraCast](https://github.com/AzuraCast/AzuraCast). Currently, the list is categorized based on the origin country.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml/badge.svg)](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml)
 
 ## Argentina
 - [AM 1050 Radio San Francisco](http://www.radiosanfrancisco.com.ar/Streaming/Am1050)
