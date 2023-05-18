@@ -48,6 +48,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
 
+## India
+- [Kissan Radio](https://kissanradio.com/)
+
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
 - [100.4 FM KLCBS](https://klcbsofficial.com/)
