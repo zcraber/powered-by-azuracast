@@ -125,7 +125,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [95x FM](https://95x.fm/public/95x)
 - [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
 - [octet.fm](https://live.octet.fm/public/live)
-- [HackInTheSystem.com 24/7 Truth Radio](https://hitstruth.live/public/hitstruth_live)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -133,6 +132,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Unknown Region
 - [Mundo Break Radio 2](https://playradiopanel.live/public/mundobreakradio2)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
+
+## Broken Links ❌
+- [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
