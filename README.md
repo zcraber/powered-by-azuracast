@@ -29,6 +29,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RCCQ](https://stream2.hosting-quebec.ca/public/rccq)
 - [RCMV RADIO](https://stream2.hosting-quebec.ca/public/rcmv)
 
+## Costa Rica
+- [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
+
 ## Ecuador
 - [Radio Alexis Stereo](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
 
@@ -70,6 +73,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Netherlands
 - [Synthetic FM Italo new generation](https://azuraserv3.live-streams.nl/public/synthetic_fm_italo_new_generation)
 - [RTV Connect](https://stream.rtvconnect.nl/public/rtv_connect)
+- [Station Goed te Passe](https://www.stationgoedtepasse.nl/)
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
@@ -92,6 +96,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## South Africa
 - [Kamhlushwa Radio](http://live.exertion.in/public/kamhlushwa_radio)
+- [Radio Orania 95.5 FM](http://radioorania.co.za/)
 
 ## Spain
 - [Taller de Radio](https://laondaradio.es/canalnoticies/taller-de-radio/)
@@ -140,4 +145,4 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
 
 ### Disclaimer 🔴
-This list is not sponsored or endorsed by AzuraCast. I don't own any of these radio stations and I'll not be liable for any damage you get by using the list. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
+This list is not sponsored or endorsed by AzuraCast. I don't own or operate any of these radio stations and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
