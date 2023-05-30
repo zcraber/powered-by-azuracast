@@ -38,6 +38,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## France
 - [Europa Radio Jazz](https://onair.europaradiojazz.org/public/europa_radio_jazz)
 - [RLOCALE RADIO](https://rlocale.fr/)
+- [Radio 50/50](https://www.radio5050.com)
 
 ## Germany
 - [MINIMALRADIO.DE](https://azurafallback.de/public/320.mp3)
