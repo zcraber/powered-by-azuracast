@@ -48,6 +48,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
 - [kafeneio](https://laterna.kafeneio.social/public/kafeneio)
 - [Anarres fm](https://anarres.fm/)
+- [RadIQ](https://www.radiq.gr/)
 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
