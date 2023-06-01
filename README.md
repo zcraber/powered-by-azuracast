@@ -112,6 +112,12 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
 
+# Switzerland
+- [MUSIQ Radio](https://www.musiq.ch/)
+
+# Tanzania
+- [MjiniFM 92.5](https://www.mjinifm.co.tz/)
+
 ## Turkey
 - [Radyo Aydın](https://www.radyoaydin.com/)
 
@@ -135,6 +141,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [95x FM](https://95x.fm/public/95x)
 - [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
 - [octet.fm](https://live.octet.fm/public/live)
+- [TCGF](http://141.148.134.145/public/tcgf_stream)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
