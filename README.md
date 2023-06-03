@@ -19,6 +19,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Chuquisaca 95.2 FM](https://radiochuquisaca.live.com.bo/)
 - [TOP Activa 99.5 FM](https://autodj.live/public/radio_top_activa)
 - [Canchallena Radio](https://autodj.live/public/canchallena)
+- [Radio Bolivia](https://salabolivia.com/escuchar-radio-bolivia/)
 
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
@@ -28,6 +29,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Long Lake 58 Radio](https://radio.ll58.ca/public/long_lake_58_radio)
 - [RCCQ](https://stream2.hosting-quebec.ca/public/rccq)
 - [RCMV RADIO](https://stream2.hosting-quebec.ca/public/rcmv)
+- [OTESSA 1](https://radio.uvic.ca/public/otessa)
 
 ## Costa Rica
 - [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
@@ -55,6 +57,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## India
 - [Kissan Radio](https://kissanradio.com/)
+- [Radio Digital Malayali](https://radio.digitalmalayali.in/)
 
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
@@ -149,6 +152,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Unknown Region
 - [Mundo Break Radio 2](https://playradiopanel.live/public/mundobreakradio2)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
+- [Radio Echo](http://172.104.155.149/public/echo_radio)
 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
@@ -157,4 +161,4 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
 
 ### Disclaimer 🔴
-This list is not sponsored or endorsed by AzuraCast. I don't own or operate any of these radio stations and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
+This list is not sponsored or endorsed by AzuraCast. I don't own or operate these radio stations except [Radio Digital Malayali](https://radio.digitalmalayali.in/) and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
