@@ -57,7 +57,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## India
 - [Kissan Radio](https://kissanradio.com/)
-- [Radio Digital Malayali](https://radio.digitalmalayali.in/)
 
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
@@ -131,6 +130,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [webcomradio](https://webcomradio.co.uk/)
 - [Box Radio](https://boxradio.net/)
 - [A1 Radio](https://www.a1radio.co.uk/)
+- [Skeewiff Radio 24/7](https://radio.pedigreecuts.i234.me/public/skeewiff)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
@@ -150,15 +150,15 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
 
 ## Unknown Region
-- [Mundo Break Radio 2](https://playradiopanel.live/public/mundobreakradio2)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [Radio Echo](http://172.104.155.149/public/echo_radio)
 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
+- [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
 
 ### Disclaimer 🔴
-This list is not sponsored or endorsed by AzuraCast. I don't own or operate these radio stations except [Radio Digital Malayali](https://radio.digitalmalayali.in/) and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
+This list is not sponsored or endorsed by AzuraCast. I don't own or operate these radio stations and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
