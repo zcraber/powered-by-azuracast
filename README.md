@@ -43,7 +43,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio 50/50](https://www.radio5050.com)
 
 ## Germany
-- [MINIMALRADIO.DE](https://azurafallback.de/public/320.mp3)
+- [MINIMALRADIO.DE](https://minimalradio.de/wp/)
 - [Radio Chostingen](https://chostingen.de/)
 
 ## Greece
