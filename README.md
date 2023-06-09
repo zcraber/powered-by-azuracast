@@ -41,6 +41,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Europa Radio Jazz](https://onair.europaradiojazz.org/public/europa_radio_jazz)
 - [RLOCALE RADIO](https://rlocale.fr/)
 - [Radio 50/50](https://www.radio5050.com)
+- [ROAD FM](https://roadfm.fr/)
 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
@@ -156,6 +157,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
+- [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
