@@ -132,6 +132,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Box Radio](https://boxradio.net/)
 - [A1 Radio](https://www.a1radio.co.uk/)
 - [Skeewiff Radio 24/7](https://radio.pedigreecuts.i234.me/public/skeewiff)
+- [ARP Radio](https://arpradio.com/)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
