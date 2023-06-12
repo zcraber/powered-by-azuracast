@@ -42,7 +42,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RLOCALE RADIO](https://rlocale.fr/)
 - [Radio 50/50](https://www.radio5050.com)
 - [ROAD FM](https://roadfm.fr/)
-- [Radio Fretoise](https://azurcast.kipaza.fr/public/radio_fretoise)
+- [Radio Fretoise](https://radiofretoise.fr/)
 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
