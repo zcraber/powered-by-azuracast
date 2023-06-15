@@ -24,6 +24,12 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
 - [Rádio Mocambos](https://radio.taina.net.br/public/radiomocambos)
+- [Rádio PACHAMEN](https://pachamen.com.br/)
+- [Age Rádio](https://pacha.men/age-radio/)
+- [Rádio Inclusiva](https://pacha.men/inclusiva/)
+- [Cannabis Sem Fronteira](https://pacha.men/semfronteiras/)
+- [Rádio Júpiter](https://pacha.men/jupiter/)
+- [Rádio Bilu.ga](https://pacha.men/biluga/)
 
 ## Canada
 - [Long Lake 58 Radio](https://radio.ll58.ca/public/long_lake_58_radio)
@@ -53,6 +59,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [kafeneio](https://laterna.kafeneio.social/public/kafeneio)
 - [Anarres fm](https://anarres.fm/)
 - [RadIQ](https://www.radiq.gr/)
+
+## Haiti
+- [Radio Intervalle 97.1 FM](https://radiointervalle.com/)
 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
@@ -87,12 +96,16 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Peru
 - [Kodama Station](https://www.kodamastation.com/)
 
+## Poland
+- [Radio Nutube](https://nutube.pl/public/radio)
+
 ## Portugal
 - [iServices](https://radio.iservices.pt/public/iservices)
  
 ## Russia
 - [radio oontz.ru](https://radio.oontz.ru/public/live)
 - [RNO](https://radio.rnor.ru/public/RNO)
+- [Radio Marvin](https://radio-marvin.ru/)
 
 ## Serbia
 - [CK13 Radio](https://ck13.space/radio)
@@ -112,14 +125,15 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Ràdio Comarques Online](https://radio.comarques.online/public/directe)
 - [Loa y tuiter.rocks](https://laotra.club/public/radio)
 - [Balearic FM](https://radio.balearic-fm.com/public/balearic_fm)
+- [Radio Ujo](https://www.radioujo.com/)
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
 
-# Switzerland
+## Switzerland
 - [MUSIQ Radio](https://www.musiq.ch/)
 
-# Tanzania
+## Tanzania
 - [MjiniFM 92.5](https://www.mjinifm.co.tz/)
 
 ## Turkey
@@ -148,18 +162,19 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
 - [octet.fm](https://live.octet.fm/public/live)
 - [TCGF](http://141.148.134.145/public/tcgf_stream)
+- [Mootxico](https://live.mootxi.co/public/mootxico)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
 
 ## Unknown Region
-- [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [Radio Echo](http://172.104.155.149/public/echo_radio)
 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
 - [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
+- [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
