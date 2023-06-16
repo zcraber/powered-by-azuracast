@@ -31,6 +31,10 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Rádio Júpiter](https://pacha.men/jupiter/)
 - [Rádio Bilu.ga](https://pacha.men/biluga/)
 
+## Bulgaria
+- [Radio Club-BG](https://radio.club-bg.org/)
+- [PowerHouse Radio](https://radio.club-bg.org/powerhouse/)
+
 ## Canada
 - [Long Lake 58 Radio](https://radio.ll58.ca/public/long_lake_58_radio)
 - [RCCQ](https://stream2.hosting-quebec.ca/public/rccq)
