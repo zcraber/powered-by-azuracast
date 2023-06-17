@@ -181,7 +181,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
 
 ### Notes 📒
-Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues" target="_blank">issues</a> or [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
+Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
 
 ### Disclaimer 🔴
 This list is not sponsored or endorsed by AzuraCast. I don't own or operate these radio stations and I'll not be liable for any damage you get by using them. If you're the owner of one of the radio stations listed here and would like to remove it, just let me know. 🙂
