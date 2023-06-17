@@ -6,10 +6,6 @@ labels: add radio
 assignees: zcraber
 
 ---
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
 **Name of the Radio Station**
 Provide the complete name of the radio station including FM/AM frequency (if any).
 
