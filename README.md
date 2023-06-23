@@ -57,6 +57,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
 - [Radio Chostingen](https://chostingen.de/)
+- [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
 
 ## Greece
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
@@ -76,6 +77,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
 - [100.4 FM KLCBS](https://klcbsofficial.com/)
+- [Radio Basuma FM](https://www.umko.ac.id/streaming-radio-basuma-fm/)
 
 ## Italy
 - [Radio YS](https://www.gettingequippedforeurope.edu.it/public/radio_dalla_chiesa)
@@ -96,6 +98,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
+- [Floofs Network](https://radio.floofsnetwork.xyz/public/floofs_network)
 
 ## Peru
 - [Kodama Station](https://www.kodamastation.com/)
