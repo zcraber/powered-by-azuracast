@@ -106,6 +106,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Poland
 - [Radio Nutube](https://nutube.pl/public/radio)
+- [Radio Widok](https://radio.radiowidok.pl/public/radio_widok)
 
 ## Portugal
 - [iServices](https://radio.iservices.pt/public/iservices)
@@ -171,6 +172,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [octet.fm](https://live.octet.fm/public/live)
 - [TCGF](http://141.148.134.145/public/tcgf_stream)
 - [Mootxico](https://live.mootxi.co/public/mootxico)
+- [Radio Gabe](https://radio.gabecane.com/public/radio_gabe)
+- [Radio els Mussols](https://radio.elsmussols.net/public/radio_els_mussols)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
