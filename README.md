@@ -186,7 +186,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
-- [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
 - [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [~~Kissan Radio~~](https://kissanradio.com/)
 
