@@ -72,7 +72,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
 
 ## India
-- [Kissan Radio](https://kissanradio.com/)
 - [Radio Digital Malayali](https://radio.digitalmalayali.in/)
 
 ## Indonesia
@@ -103,6 +102,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Peru
 - [Kodama Station](https://www.kodamastation.com/)
+- [RCC Lima Radio](https://radio.rcclima.org.pe/public/rcc_lima)
 
 ## Poland
 - [Radio Nutube](https://nutube.pl/public/radio)
@@ -174,6 +174,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Mootxico](https://live.mootxi.co/public/mootxico)
 - [Radio Gabe](https://radio.gabecane.com/public/radio_gabe)
 - [Radio els Mussols](https://radio.elsmussols.net/public/radio_els_mussols)
+- [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -187,6 +188,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
 - [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
 - [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
+- [~~Kissan Radio~~](https://kissanradio.com/)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
