@@ -95,6 +95,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Synthetic FM Italo new generation](https://azuraserv3.live-streams.nl/public/synthetic_fm_italo_new_generation)
 - [RTV Connect](https://stream.rtvconnect.nl/public/rtv_connect)
 - [Station Goed te Passe](https://www.stationgoedtepasse.nl/)
+- [Oldschool Babiediebapbaaaap](https://stream.spraynoobs.nl/public/spraynoobs)
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
@@ -155,7 +156,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [webcomradio](https://webcomradio.co.uk/)
 - [Box Radio](https://boxradio.net/)
 - [A1 Radio](https://www.a1radio.co.uk/)
-- [Skeewiff Radio 24/7](https://radio.pedigreecuts.i234.me/public/skeewiff)
+- [Skeewiff Radio 24/7](http://radio.pedigreecuts.i234.me/public/skeewiff)
 - [ARP Radio](https://arpradio.com/)
 
 ## USA
@@ -175,6 +176,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Gabe](https://radio.gabecane.com/public/radio_gabe)
 - [Radio els Mussols](https://radio.elsmussols.net/public/radio_els_mussols)
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
+- [Parkdeck Radio](https://parkdeck.club/)
+- [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
