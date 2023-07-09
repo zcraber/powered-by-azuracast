@@ -176,6 +176,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
 - [Parkdeck Radio](https://parkdeck.club/)
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
+- [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -187,7 +188,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
-- [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [~~Kissan Radio~~](https://kissanradio.com/)
 - [~~RNO~~](https://radio.rnor.ru/public/RNO)
 - [~~Loa y tuiter.rocks~~](https://laotra.club/public/radio)
