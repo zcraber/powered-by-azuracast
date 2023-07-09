@@ -3,6 +3,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml/badge.svg)](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml)
 
+## Angola
+- [Powermix FM](https://www.powermixfm.eu/)
+
 ## Argentina
 - [AM 1050 Radio San Francisco](http://www.radiosanfrancisco.com.ar/Streaming/Am1050)
 - [FM Lupa](https://audiopanel.com.ar/public/fm_lupa)
@@ -43,6 +46,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Costa Rica
 - [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
+
+## Czech Republic
+- [Phonk Nation Radio](https://radio.plainrock127.xyz/public/phonk)
 
 ## Ecuador
 - [Radio Alexis Stereo](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
