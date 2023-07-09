@@ -64,6 +64,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
 - [Radio Chostingen](https://chostingen.de/)
 - [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
+- [Nite Radio](https://radio.niteradio.net/public/niteradio)
 
 ## Greece
 - [Athensnoise Rocks](https://www.athensnoise.rocks/radio/)
