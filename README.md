@@ -1,5 +1,5 @@
 # Powered by AzuraCast 📻
-An attempt to list the awesome radio stations, around the world, powered by the open source radio management software [AzuraCast](https://github.com/AzuraCast/AzuraCast). Currently, the list is categorized based on the origin country.
+An attempt to list the awesome radio stations, around the world, powered by the open-source radio management software [AzuraCast](https://github.com/AzuraCast/AzuraCast). Currently, the list is categorized based on the origin country.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml/badge.svg)](https://github.com/zcraber/powered-by-azuracast/actions/workflows/links.yml)
 
@@ -114,7 +114,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
  
 ## Russia
 - [radio oontz.ru](https://radio.oontz.ru/public/live)
-- [RNO](https://radio.rnor.ru/public/RNO)
 - [Radio Marvin](https://radio-marvin.ru/)
 
 ## Serbia
@@ -133,7 +132,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [StarDJ](https://stardj.es/public/radio)
 - [TopCat Radio](https://topcatradio.eu/)
 - [Ràdio Comarques Online](https://radio.comarques.online/public/directe)
-- [Loa y tuiter.rocks](https://laotra.club/public/radio)
 - [Balearic FM](https://radio.balearic-fm.com/public/balearic_fm)
 - [Radio Ujo](https://www.radioujo.com/)
 
@@ -191,6 +189,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
 - [~~Outlaw Chiptunes~~](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [~~Kissan Radio~~](https://kissanradio.com/)
+- [~~RNO~~](https://radio.rnor.ru/public/RNO)
+- [~~Loa y tuiter.rocks~~](https://laotra.club/public/radio)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
