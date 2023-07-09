@@ -66,6 +66,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
 
 ## Greece
+- [Athensnoise Rocks](https://www.athensnoise.rocks/radio/)
 - [Freespirits Services](https://aphrodite.freespirits.gr/public/freespirits_radio)
 - [kafeneio](https://laterna.kafeneio.social/public/kafeneio)
 - [Anarres fm](https://anarres.fm/)
