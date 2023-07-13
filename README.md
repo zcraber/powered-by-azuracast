@@ -8,8 +8,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Argentina
 - [AM 1050 Radio San Francisco](http://www.radiosanfrancisco.com.ar/Streaming/Am1050)
-- [FM Lupa](https://audiopanel.com.ar/public/fm_lupa)
-- [FM Triunfo](https://audiopanel.com.ar/public/fm_triunfo)
 - [FM Universo 957](http://168.197.48.9/public/fm_universo_957)
 
 ## Australia
@@ -43,6 +41,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RCCQ](https://stream2.hosting-quebec.ca/public/rccq)
 - [RCMV RADIO](https://stream2.hosting-quebec.ca/public/rcmv)
 - [OTESSA 1](https://radio.uvic.ca/public/otessa)
+- [Relay Radio](https://www.relay-radio.com/)
 
 ## Costa Rica
 - [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
@@ -199,6 +198,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Kissan Radio~~](https://kissanradio.com/)
 - [~~RNO~~](https://radio.rnor.ru/public/RNO)
 - [~~Loa y tuiter.rocks~~](https://laotra.club/public/radio)
+- [~~FM Lupa~~](https://audiopanel.com.ar/public/fm_lupa)
+- [~~FM Triunfo~~](https://audiopanel.com.ar/public/fm_triunfo)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
