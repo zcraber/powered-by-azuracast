@@ -122,6 +122,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Russia
 - [radio oontz.ru](https://radio.oontz.ru/public/live)
 - [Radio Marvin](https://radio-marvin.ru/)
+- [RNO](https://radio.rnor.ru/public/RNO)
 
 ## Serbia
 - [CK13 Radio](https://ck13.space/radio)
@@ -196,7 +197,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
 - [~~Kissan Radio~~](https://kissanradio.com/)
-- [~~RNO~~](https://radio.rnor.ru/public/RNO)
 - [~~Loa y tuiter.rocks~~](https://laotra.club/public/radio)
 - [~~FM Lupa~~](https://audiopanel.com.ar/public/fm_lupa)
 - [~~FM Triunfo~~](https://audiopanel.com.ar/public/fm_triunfo)
