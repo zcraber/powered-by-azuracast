@@ -123,6 +123,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [radio oontz.ru](https://radio.oontz.ru/public/live)
 - [Radio Marvin](https://radio-marvin.ru/)
 - [RNO](https://radio.rnor.ru/public/RNO)
+- [FreeDom On-Line World](https://live.radio-fdonline.ru/public/fdonline)
+- [Freedom On-Line Dance](https://live.radio-fdonline.ru/public/dance)
+- [Freedom on-line love](https://live.radio-fdonline.ru/public/love/)
 
 ## Serbia
 - [CK13 Radio](https://ck13.space/radio)
