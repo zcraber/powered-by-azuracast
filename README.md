@@ -148,6 +148,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
+- [Bananradion](https://www.bananradion.se/)
 
 ## Switzerland
 - [MUSIQ Radio](https://www.musiq.ch/)
@@ -167,6 +168,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [A1 Radio](https://www.a1radio.co.uk/)
 - [Skeewiff Radio 24/7](http://radio.pedigreecuts.i234.me/public/skeewiff)
 - [ARP Radio](https://arpradio.com/)
+- [SimulatorHits](https://simulatorhits.com/)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
