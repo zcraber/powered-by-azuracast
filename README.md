@@ -130,6 +130,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [FreeDom On-Line World](https://live.radio-fdonline.ru/public/fdonline)
 - [Freedom On-Line Dance](https://live.radio-fdonline.ru/public/dance)
 - [Freedom on-line love](https://live.radio-fdonline.ru/public/love/)
+- [M.Deep Radio](https://mdeep.ru/)
 
 ## Serbia
 - [CK13 Radio](https://ck13.space/radio)
