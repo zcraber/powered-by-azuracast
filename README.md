@@ -67,6 +67,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Chostingen](https://chostingen.de/)
 - [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
 - [Nite Radio](https://radio.niteradio.net/public/niteradio)
+- [XenoFM](https://xenofm.live/)
 
 ## Greece
 - [Athensnoise Rocks](https://www.athensnoise.rocks/radio/)
@@ -192,7 +193,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Gabe](https://radio.gabecane.com/public/radio_gabe)
 - [Radio els Mussols](https://radio.elsmussols.net/public/radio_els_mussols)
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
-- [Parkdeck Radio](https://parkdeck.club/)
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [Sandbox Radio](https://www.sandboxradio.live/)
@@ -213,6 +213,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~FM Lupa~~](https://audiopanel.com.ar/public/fm_lupa)
 - [~~FM Triunfo~~](https://audiopanel.com.ar/public/fm_triunfo)
 - [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
+- [~~Parkdeck Radio~~](https://parkdeck.club/)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
