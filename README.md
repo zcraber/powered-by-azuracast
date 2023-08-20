@@ -61,6 +61,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio 50/50](https://www.radio5050.com)
 - [ROAD FM](https://roadfm.fr/)
 - [Radio Fretoise](https://radiofretoise.fr/)
+- [Enjoy Station](https://enjoystation.fr/)
 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
@@ -154,7 +155,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
-- [Bananradion](https://www.bananradion.se/)
 
 ## Switzerland
 - [MUSIQ Radio](https://www.musiq.ch/)
@@ -214,6 +214,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~FM Triunfo~~](https://audiopanel.com.ar/public/fm_triunfo)
 - [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
 - [~~Parkdeck Radio~~](https://parkdeck.club/)
+- [~~Bananradion~~](https://www.bananradion.se/)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
