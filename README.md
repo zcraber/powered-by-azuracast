@@ -52,9 +52,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Czech Republic
 - [Phonk Nation Radio](https://radio.plainrock127.xyz/public/phonk)
 
-## Ecuador
-- [Radio Alexis Stereo](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
-
 ## France
 - [Europa Radio Jazz](https://onair.europaradiojazz.org/public/europa_radio_jazz)
 - [RLOCALE RADIO](https://rlocale.fr/)
@@ -197,6 +194,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [Sandbox Radio](https://www.sandboxradio.live/)
 - [Out of Character Radio](https://oocradio.com/)
+- [Rock Radio 360](https://rockradio360.com/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -215,6 +213,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Long Lake 58 Radio~~](https://radio.ll58.ca/public/long_lake_58_radio)
 - [~~Parkdeck Radio~~](https://parkdeck.club/)
 - [~~Bananradion~~](https://www.bananradion.se/)
+- [~~Radio Alexis Stereo~~](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
