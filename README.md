@@ -115,6 +115,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Kodama Station](https://www.kodamastation.com/)
 - [RCC Lima Radio](https://radio.rcclima.org.pe/public/rcc_lima)
 
+## Philippines
+- [rphradio.net](https://rphradio.net)
+
 ## Poland
 - [Radio Nutube](https://nutube.pl/public/radio)
 - [Radio Widok](https://radio.radiowidok.pl/public/radio_widok)
