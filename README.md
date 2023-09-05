@@ -186,7 +186,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Yada](https://radio.mailguru.co.za/public/radio_yada)
 - [Radio Earth - Always Good Vibes](https://radio-earth.live/public/earth_radio)
 - [95x FM](https://95x.fm/public/95x)
-- [Leerecs Radio](https://leerecs.fm/public/leerecs_radio)
 - [octet.fm](https://live.octet.fm/public/live)
 - [TCGF](http://141.148.134.145/public/tcgf_stream)
 - [Mootxico](https://live.mootxi.co/public/mootxico)
@@ -217,6 +216,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Parkdeck Radio~~](https://parkdeck.club/)
 - [~~Bananradion~~](https://www.bananradion.se/)
 - [~~Radio Alexis Stereo~~](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
+- [~~Leerecs Radio~~](https://leerecs.fm/public/leerecs_radio)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
