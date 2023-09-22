@@ -196,7 +196,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [Sandbox Radio](https://www.sandboxradio.live/)
-- [Out of Character Radio](https://oocradio.com/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -218,6 +217,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Radio Alexis Stereo~~](https://radioalexisstereo.serberato.com/public/radio_alexis_stereo)
 - [~~Leerecs Radio~~](https://leerecs.fm/public/leerecs_radio)
 - [~~Rock Radio 360~~](https://rockradio360.com/)
+- [~~Out of Character Radio~~](https://oocradio.com/)
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
