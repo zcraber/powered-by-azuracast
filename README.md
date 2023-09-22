@@ -176,6 +176,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Skeewiff Radio 24/7](http://radio.pedigreecuts.i234.me/public/skeewiff)
 - [ARP Radio](https://arpradio.com/)
 - [SimulatorHits](https://simulatorhits.com/)
+- [TruckStopRadio](https://truckstopradio.co.uk/)
+- [qUAntUm RaDio](https://radio.erb.pw/)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
