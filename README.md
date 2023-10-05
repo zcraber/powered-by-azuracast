@@ -67,6 +67,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
 - [Nite Radio](https://radio.niteradio.net/public/niteradio)
 - [XenoFM](https://xenofm.live/)
+- [RADIO ENDSTATION](https://radio-endstation.de/)
 
 ## Greece
 - [Athensnoise Rocks](https://www.athensnoise.rocks/radio/)
@@ -84,6 +85,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## India
 - [Radio Digital Malayali](https://radio.digitalmalayali.in/)
 - [Mixify](https://mixify.in/)
+- [Kissan Radio](https://kissanradio.com/)
+- [KuttySoft](https://azura.kuttysoft.com/public/kuttysoft)
 
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
@@ -115,9 +118,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Peru
 - [Kodama Station](https://www.kodamastation.com/)
 - [RCC Lima Radio](https://radio.rcclima.org.pe/public/rcc_lima)
-
-## Philippines
-- [rphradio.net](https://rphradio.net)
 
 ## Poland
 - [Radio Nutube](https://nutube.pl/public/radio)
@@ -197,7 +197,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
-- [Sandbox Radio](https://www.sandboxradio.live/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
@@ -220,6 +219,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Leerecs Radio~~](https://leerecs.fm/public/leerecs_radio)
 - [~~Rock Radio 360~~](https://rockradio360.com/)
 - [~~Out of Character Radio~~](https://oocradio.com/)
+- [~~Sandbox Radio~~](https://www.sandboxradio.live/)
+- [~~rphradio.net~~](https://rphradio.net)
+
 
 ### Notes 📒
 Feel free to make suggestions or corrections by creating <a href="https://github.com/zcraber/powered-by-azuracast/issues/new?assignees=zcraber&labels=add+radio&projects=&template=add-radio.md&title=Add+Radio" target="_blank">issues</a> or submitting a [pull requests](https://github.com/zcraber/powered-by-azuracast/pulls) if you know of any radio stations that should be on this list.
