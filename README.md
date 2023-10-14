@@ -20,7 +20,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Chuquisaca 95.2 FM](https://radiochuquisaca.live.com.bo/)
 - [TOP Activa 99.5 FM](https://autodj.live/public/radio_top_activa)
 - [Canchallena Radio](https://autodj.live/public/canchallena)
-- [Radio Bolivia](https://salabolivia.com/escuchar-radio-bolivia/)
 
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
@@ -221,6 +220,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Out of Character Radio~~](https://oocradio.com/)
 - [~~Sandbox Radio~~](https://www.sandboxradio.live/)
 - [~~rphradio.net~~](https://rphradio.net)
+- [~~Radio Bolivia~~](https://salabolivia.com/escuchar-radio-bolivia/)
 
 
 ### Notes 📒
