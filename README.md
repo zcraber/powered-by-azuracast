@@ -109,6 +109,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RTV Connect](https://stream.rtvconnect.nl/public/rtv_connect)
 - [Station Goed te Passe](https://www.stationgoedtepasse.nl/)
 - [Oldschool Babiediebapbaaaap](https://stream.spraynoobs.nl/public/spraynoobs)
+- [Radio Fomix](https://fomix.nl/)
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
