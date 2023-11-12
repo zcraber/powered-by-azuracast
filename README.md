@@ -65,7 +65,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Chostingen](https://chostingen.de/)
 - [c3lounge Radio](https://c3lounge.de/public/c3lounge_radio)
 - [Nite Radio](https://radio.niteradio.net/public/niteradio)
-- [XenoFM](https://xenofm.live/)
 - [RADIO ENDSTATION](https://radio-endstation.de/)
 
 ## Greece
@@ -109,6 +108,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RTV Connect](https://stream.rtvconnect.nl/public/rtv_connect)
 - [Station Goed te Passe](https://www.stationgoedtepasse.nl/)
 - [Oldschool Babiediebapbaaaap](https://stream.spraynoobs.nl/public/spraynoobs)
+- [XenoFM](https://xeno.fm/)
 - [Radio Fomix](https://fomix.nl/)
 
 ## New Zealand
