@@ -19,7 +19,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Bolivia
 - [Radio Chuquisaca 95.2 FM](https://radiochuquisaca.live.com.bo/)
 - [TOP Activa 99.5 FM](https://autodj.live/public/radio_top_activa)
-- [Canchallena Radio](https://autodj.live/public/canchallena)
 
 ## Brazil
 - [Rádio ASC](https://amigos-share.club/)
@@ -41,9 +40,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [OTESSA 1](https://radio.uvic.ca/public/otessa)
 - [Relay Radio](https://www.relay-radio.com/)
 - [CJKP-DB Alt Rock Radio](https://altrockradio.ca/listen2/)
-
-## Colombia
-- [MusicLine Radio](https://musicline.linky.com.co/)
 
 ## Costa Rica
 - [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
@@ -150,7 +146,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [RadioFarmtruck](https://radiofarmtruck.com/public/farmtruck)
 - [StarDJ](https://stardj.es/public/radio)
 - [TopCat Radio](https://topcatradio.eu/)
-- [Ràdio Comarques Online](https://radio.comarques.online/public/directe)
 - [Balearic FM](https://radio.balearic-fm.com/public/balearic_fm)
 - [Radio Ujo](https://www.radioujo.com/)
 
@@ -222,6 +217,10 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Sandbox Radio~~](https://www.sandboxradio.live/)
 - [~~rphradio.net~~](https://rphradio.net)
 - [~~Radio Bolivia~~](https://salabolivia.com/escuchar-radio-bolivia/)
+- [~~Canchallena Radio~~](https://autodj.live/public/canchallena)
+- [~~Ràdio Comarques Online~~](https://radio.comarques.online/public/directe)
+- [~~MusicLine Radio~~](https://musicline.linky.com.co/)
+
 
 
 ### Notes 📒
