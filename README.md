@@ -173,6 +173,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [SimulatorHits](https://simulatorhits.com/)
 - [TruckStopRadio](https://truckstopradio.co.uk/)
 - [qUAntUm RaDio](https://radio.erb.pw/)
+- [Reboot Radio](https://rebootradio.uk/)
+- [TruckersFM](https://truckers.fm/)
 
 ## USA
 - [LapFox Radio](https://lapfoxradio.com/)
