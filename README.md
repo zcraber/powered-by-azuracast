@@ -133,6 +133,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Serbia
 - [CK13 Radio](https://ck13.space/radio)
+- [radio Krov](https://radiotalas.dckrov.rs/)
 
 ## Slovakia
 - [Slobodny Vysielac](https://vysielanie.online/public/sv)
