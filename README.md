@@ -195,6 +195,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [SpriteLayer Video Game Radio](https://www.spritelayerradio.com/)
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
+- [WBOR 91.1 FM](https://wbor.org)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
