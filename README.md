@@ -95,6 +95,11 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Japan
 - [Muse](https://hear.moe/public/muse)
 
+## Malaysia
+- [Gan Productions Live](https://thegan.typicalmedia.net/?page_id=100)
+- [OLIX RADIO 88.7 & OLIXCHILL](https://thegan.typicalmedia.net/?page_id=29)
+- [Giorgio World Media](https://giorgioworldmedia.wixsite.com/website/radio)
+
 ## Mexico
 - [Isekai Anime Radio](https://www.isekaianimeradio.net/)
 - [Japanisu Radio](https://www.radioani.me/)
@@ -196,6 +201,8 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [The Strictly Rockers Reggae Show](https://supersoul.live/public/the_strictly_rockers_reggae_show)
 - [Outlaw Chiptunes](https://outlawchiptunes.com/public/outlaw_chiptunes)
 - [WBOR 91.1 FM](https://wbor.org)
+- [Hits247](https://hits247.live/)
+- [Dance247](https://dance.hits247.live/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
