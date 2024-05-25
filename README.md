@@ -157,6 +157,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
+- [Radio Not Toys](https://radio.not.toys/)
 
 ## Switzerland
 - [MUSIQ Radio](https://www.musiq.ch/)
