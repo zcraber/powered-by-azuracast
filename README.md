@@ -154,6 +154,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [TopCat Radio](https://topcatradio.eu/)
 - [Balearic FM](https://radio.balearic-fm.com/public/balearic_fm)
 - [Radio Ujo](https://www.radioujo.com/)
+- [OcioNews Radio Tv](https://www.ocionews.com/a-la-carta/ocionews-radio-tv/)
 
 ## Sweden
 - [Radio Rivendell](https://www.radiorivendell.com/)
@@ -215,7 +216,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Inactive Radios ❌
 - [~~HackInTheSystem.com 24/7 Truth Radio~~](https://hitstruth.live/public/hitstruth_live)
 - [~~Mundo Break Radio 2~~](https://playradiopanel.live/public/mundobreakradio2)
-- [~~Kissan Radio~~](https://kissanradio.com/)
 - [~~Loa y tuiter.rocks~~](https://laotra.club/public/radio)
 - [~~FM Lupa~~](https://audiopanel.com.ar/public/fm_lupa)
 - [~~FM Triunfo~~](https://audiopanel.com.ar/public/fm_triunfo)
