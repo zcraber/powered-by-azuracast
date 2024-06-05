@@ -111,6 +111,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Oldschool Babiediebapbaaaap](https://stream.spraynoobs.nl/public/spraynoobs)
 - [XenoFM](https://xeno.fm/)
 - [Radio Fomix](https://fomix.nl/)
+- [Fastradio](https://fastradio.web-radio.nl/)
 
 ## New Zealand
 - [radio free fedi](https://radiofreefedi.net/)
