@@ -174,6 +174,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radyo Aydın](https://www.radyoaydin.com/)
 
 ## UK
+- [FrydeFM](https://frydefm.uk.to/)
 - [Globalconnection](https://globalconnection.world/)
 - [Quest London Radio](https://azuracast.clubhits.uk/public/questlondonradio)
 - [Lituanica.fm](http://lituanica.fm/)
