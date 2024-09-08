@@ -127,6 +127,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 
 ## Portugal
 - [iServices](https://radio.iservices.pt/public/iservices)
+
+## Romania
+- [Moinesti FM](https://moinestifm.ro/)
  
 ## Russia
 - [radio oontz.ru](https://radio.oontz.ru/public/live)
