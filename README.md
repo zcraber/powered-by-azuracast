@@ -81,6 +81,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Mixify](https://mixify.in/)
 - [Kissan Radio](https://kissanradio.com/)
 - [KuttySoft](https://azura.kuttysoft.com/public/kuttysoft)
+- [Radio Malayalam](https://www.radiomalayalam.in/)
 
 ## Indonesia
 - [Kalpataru FM](https://stream.bskmedia.co.id/public/kalpatarufm)
