@@ -13,6 +13,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Australia
 - [96.7 FM 2GHR](https://stream.2ghr.org.au/public/2ghr)
 
+## Bahrain
+- [Shabakat Nur](https://themsovietbois.com/public/shabakat_nur)
+
 ## Bangladesh
 - [BAYRADIO](https://radio.bayerp.com/public/bayradio)
 
