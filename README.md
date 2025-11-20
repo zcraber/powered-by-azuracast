@@ -43,7 +43,10 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [OTESSA 1](https://radio.uvic.ca/public/otessa)
 - [Relay Radio](https://www.relay-radio.com/)
 - [CJKP-DB Alt Rock Radio](https://altrockradio.ca/listen2/)
-
+  
+## Chile
+- [Radio PalMundoFM](https://palmundofm.cl/)
+  
 ## Costa Rica
 - [Radio Mil Recuerdos](https://radiomilrecuerdos.com/)
 
