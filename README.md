@@ -83,6 +83,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Hungary
 - [Radio Qpa](https://qparadio.sch.bme.hu/)
 
+## Lebanon
+- [LBI Radio](https://www.lbiradio.com/)
+
 ## India
 - [Radio Digital Malayali](https://radio.digitalmalayali.in/)
 - [Mixify](https://mixify.in/)
