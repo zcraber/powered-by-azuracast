@@ -103,6 +103,9 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 ## Japan
 - [Muse](https://hear.moe/public/muse)
 
+## Lebanon
+- [LBI Radio](https://www.lbiradio.com/)
+
 ## Malaysia
 - [Gan Productions Live](https://thegan.typicalmedia.net/?page_id=100)
 - [OLIX RADIO 88.7 & OLIXCHILL](https://thegan.typicalmedia.net/?page_id=29)
