@@ -62,7 +62,6 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Fretoise](https://radiofretoise.fr/)
 - [Enjoy Station](https://enjoystation.fr/)
 - [ISEKOI Radio](https://www.isekoi-radio.com/)
-- [NGRadio](https://ngradio.fr)
 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
@@ -252,6 +251,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [~~Canchallena Radio~~](https://autodj.live/public/canchallena)
 - [~~Ràdio Comarques Online~~](https://radio.comarques.online/public/directe)
 - [~~MusicLine Radio~~](https://musicline.linky.com.co/)
+- [~~NGRadio~~](https://ngradio.fr)
 
 
 
