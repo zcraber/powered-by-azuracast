@@ -224,6 +224,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Hits247](https://hits247.live/)
 - [Dance247](https://dance.hits247.live/)
 - [K-PHRED RADIO](https://linkedlocalnetwork.com/)
+- [Animikii Club](https://animikii.club/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
