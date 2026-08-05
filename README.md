@@ -76,6 +76,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [kafeneio](https://laterna.kafeneio.social/public/kafeneio)
 - [Anarres fm](https://anarres.fm/)
 - [RadIQ](https://www.radiq.gr/)
+- [Heraklion Web Radio](https://heraklionwebradio.gr/)
 
 ## Haiti
 - [Radio Intervalle 97.1 FM](https://radiointervalle.com/)
