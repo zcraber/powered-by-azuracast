@@ -229,6 +229,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Animikii Club](https://animikii.club/)
 - [91.3 Ayclt FM](https://www.913aycltfm.com/)
 - [GZS 197.7 OMVFM](https://nicheof.one/radio/)
+- [KDUG](https://kdugradio.com/)
 
 ## Zimbabwe
 - [Radio Zimbabwe](http://154.120.239.26/public/radio_zim)
