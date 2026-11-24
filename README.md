@@ -64,6 +64,7 @@ An attempt to list the awesome radio stations, around the world, powered by the 
 - [Radio Fretoise](https://radiofretoise.fr/)
 - [Enjoy Station](https://enjoystation.fr/)
 - [ISEKOI Radio](https://www.isekoi-radio.com/)
+- [AIR GAY RADIO](https://www.airgayradio.net/)
 
 ## Germany
 - [MINIMALRADIO.DE](https://minimalradio.de/wp/)
